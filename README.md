@@ -3,10 +3,10 @@
 ## Screenshots
 <div class="row">
   <div class="column">
-    <img src="https://github.com/mamoonbgc036/ras/blob/main/public/picOne.png">
-  </div>
-  <div class="column">
     <img src="https://github.com/mamoonbgc036/ras/blob/main/public/picTwo.png">
+  </div>
+      <div class="column">
+    <img src="https://github.com/mamoonbgc036/ras/blob/main/public/picOne.png">
   </div>
 </div>
 <div class="row">
