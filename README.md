@@ -44,6 +44,7 @@ php artisan migrate::fresh --seed
 ```
 
 #### All set.. Navigate to site url 
+#### Click `Login`
 #### Click `Not a user?Sign Up` at bottom of Login Page
 #### Create an account and will redirect to Dashboard Page
 
